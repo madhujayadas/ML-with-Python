@@ -1,2 +1,2 @@
-# ML-with-Python
+# ML with Python
 Machine Learning with Python
